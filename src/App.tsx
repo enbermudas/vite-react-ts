@@ -2,7 +2,7 @@ function App() {
   return (
     <div
       id="app"
-      className="text-3xl font-bold bg-slate-900 w-screen h-screen p-4 text-white"
+      className=" h-screen w-screen bg-slate-900 p-4 text-3xl font-bold text-white"
     >
       App
     </div>
