@@ -4,4 +4,4 @@ This is a minimal vite-based starter template for building React applications wi
 
 - **ESLint and Prettier**: For code linting and formatting.
 - **Husky**: For pre-commit hooks to ensure code quality.
-- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **Tailwind and DaisyUI**: A utility-first CSS framework for styling and component class names.
