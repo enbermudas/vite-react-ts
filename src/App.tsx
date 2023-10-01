@@ -2,9 +2,9 @@ function App() {
   return (
     <div
       id="app"
-      className=" h-screen w-screen bg-slate-900 p-4 text-3xl font-bold text-white"
+      className="h-screen w-screen bg-base-100 text-accent-content antialiased"
     >
-      App
+      <div className="container mx-auto p-6">App is over here.</div>
     </div>
   );
 }
